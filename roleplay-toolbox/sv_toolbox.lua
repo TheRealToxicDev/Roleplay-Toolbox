@@ -160,7 +160,7 @@ PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/roleplay-
 		print('\n')
 		print('--------------------------------------------------------------------')
 		print('')
-		print('Roleplay Toolbox By GrimDesigns')
+		print('Roleplay Toolbox By Toxic Dev')
 		print('')
 		print('Current Version: ' .. CurrentVersion)
 		print('Newest Version: ' .. NewestVersion)
@@ -168,7 +168,7 @@ PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/roleplay-
 		if CurrentVersion ~= NewestVersion then
 			print('--------------------------------------------------------------------')
 			print('## Outdated')
-			print('## Check the GitHub')
+			print('## Check the GitHub | https://github.com/TheRealToxicDev/Roleplay-Toolbox')
 			print('## For the newest Version!')
 			print('##############')
 			print('CHANGES: ' .. Changes)
